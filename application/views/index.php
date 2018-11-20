@@ -117,7 +117,7 @@
                   <i class="fas fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="<?php echo base_url().'assets/img/portfolio/seragam.png'?>" alt="">
+              <img class="img-fluid" src="<?php echo base_url().'assets/img/portfolio/Seragam.png'?>" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Kemeja Seragam</h4>
@@ -282,8 +282,8 @@
           <div class="col-sm-4">
             <div class="team-member">
               <img class="mx-auto rounded-circle" src="<?php echo base_url().'assets/img/team/1.jpg'?>" alt="">
-              <h4>Marpuah</h4>
-              <p class="text-muted">ini Mantap mon!</p>
+              <h4>Endang Koenaedi</h4>
+              <p class="text-muted">"Cari vendor di Candor sangat menghemat waktu! dapat membandingkan harga dan pilihan hargapun sangat beragam. Terima kasih Candor!"</p>
               <ul class="list-inline social-buttons">
                               </ul>
             </div>
@@ -291,8 +291,8 @@
           <div class="col-sm-4">
             <div class="team-member">
               <img class="mx-auto rounded-circle" src="<?php echo base_url().'assets/img/team/2.jpg'?>" alt="">
-              <h4>Samsul</h4>
-              <p class="text-muted">Mantap mon ini!</p>
+              <h4>Samsul Arifin</h4>
+              <p class="text-muted">"Ide yang sangat brilian! Mampu menciptakan peluang ditengah banyaknya marketplace mainstream!"</p>
               <ul class="list-inline social-buttons">
               </ul>
             </div>
@@ -300,8 +300,8 @@
           <div class="col-sm-4">
             <div class="team-member">
               <img class="mx-auto rounded-circle" src="<?php echo base_url().'assets/img/team/3.jpg'?>" alt="">
-              <h4>Doraemon</h4>
-              <p class="text-muted">ini mon Mantap!</p>
+              <h4>Ratna Suryani</h4>
+              <p class="text-muted">Puas sekali dengan adanya marketplace seperti candor, saya tidak perlu kesulitan lagi untuk mencari vendor ditempat lain, dengan begini saya juga bisa melihat berbagai macam referensi untuk konveksi baju saya. terima kasih candor!</p>
               <ul class="list-inline social-buttons">
                 
               </ul>
@@ -345,7 +345,7 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">KONTAK KAMI</h2>
-            <h3 class="section-subheading text-muted">Kami menerima feedback dari anda</h3>
+            <p style="color:white; text-align: center;">Kami menerima feedback dari anda, masukan anda akan sangat berarti bagi kami. Terima Kasih</p>
           </div>
         </div>
         <div class="row">
@@ -390,7 +390,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <span class="copyright">Copyright &copy; Your Website 2018</span>
+            <span class="copyright">Copyright &copy; CariVendorIndonesia</span>
           </div>
           <div class="col-md-4">
             <ul class="list-inline social-buttons">
