@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Candor-Cari Vendor</title>
+    <title>Candor - Cari Vendor</title>
 
     <!-- Bootstrap core CSS -->
     <link href="<?php echo base_url().'assets/vendor/bootstrap/css/bootstrap.min.css'?>" rel="stylesheet">
@@ -63,9 +63,9 @@
     <header class="masthead">
       <div class="container">
         <div class="intro-text">
-          <div class="intro-lead-in">Ini Candor</div>
-          <div class="intro-heading text-uppercase">Cari vendor</div>
-          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">LIHAT KATALOG</a>
+          <div class="intro-lead-in">Cari Vendor </div>
+          <div class="intro-heading text-uppercase">marketplace vendor konveksi</div>
+          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#portfolio">LIHAT KATALOG</a>
         </div>
       </div>
     </header>
@@ -78,7 +78,7 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">PRODUK YANG DILAYANI</h2>
-            <h3 class="section-subheading text-muted">Kami bekerja sama dengan banyak vendor konveksi mitra yang menjamin kualitas barang-barangnya</h3>
+            <h3 class="section-subheading text-muted">Kami menyediakan berbagai produk pakaian dengan berbagai harga yang cocok dengan client dan kami bekerja sama dengan banyak vendor konveksi mitra yang menjamin kualitas barang-barangnya</h3>
           </div>
         </div>
         <div class="row">
@@ -185,7 +185,7 @@
             <ul class="timeline">
               <li>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="<?php echo base_url().'assets/img/about/1.jpg'?>" alt="">
+                  <img class="rounded-circle img-fluid" src="<?php echo base_url().'assets/img/about/001.jpg'?>" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -200,7 +200,7 @@
               </li>
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="<?php echo base_url().'assets/img/about/2.jpg'?>" alt="">
+                  <img class="rounded-circle img-fluid" src="<?php echo base_url().'assets/img/about/2 (2).jpg'?>" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -231,7 +231,7 @@
               </li>
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="<?php echo base_url().'assets/img/about/4.jpg'?>" alt="">
+                  <img class="rounded-circle img-fluid" src="<?php echo base_url().'assets/img/about/004.jpg'?>" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -244,7 +244,7 @@
               </li>
               <li>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="<?php echo base_url().'assets/img/about/1.jpg'?>" alt="">
+                  <img class="rounded-circle img-fluid" src="<?php echo base_url().'assets/img/about/005.jpg'?>" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -262,15 +262,18 @@
         </div>
       </div>
     </section>
+      
+      
+      
 
     <!-- Team -->
     <section class="bg-light" id="team">
       <div class="container">
         <div class="row">
-          <div class="col-lg-12 text-center">
+          <div class="col-lg-12 (2) text-center">
             <div class="col-lg-12 text-center">
               <h2 class="section-heading text-uppercase">TESTIMONI</h2>
-              <h3 class="section-subheading text-muted">Candor memberikan pelayanan terbaik kepada customer</h3>
+              <h3 class="section-subheading text-muted">Candor mencoba memberikan pelayanan terbaik kepada customer dan menerima feedback dari client</h3>
             </div>
             <h3 class="section-subheading text-muted">&nbsp;</h3>
           </div>
@@ -303,11 +306,6 @@
                 
               </ul>
             </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-8 mx-auto text-center">
-            <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
           </div>
         </div>
       </div>
@@ -350,88 +348,42 @@
             <h3 class="section-subheading text-muted">Kami menerima feedback dari anda</h3>
           </div>
         </div>
-    <div class="row">
-          <div class="col-sm-4">
-            <div class="team-member">
-              <img class="mx-auto rounded-circle" src="<?php echo base_url().'assets/img/team/1.jpg'?>" alt="">
-              <h4>Kay Garland</h4>
-              <p class="text-muted">Lead Designer</p>
-              <ul class="list-inline social-buttons">
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fab fa-twitter"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fab fa-facebook-f"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fab fa-linkedin-in"></i>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-sm-4">
-            <div class="team-member">
-              <img class="mx-auto rounded-circle" src="<?php echo base_url().'assets/img/team/2.jpg'?>" alt="">
-              <h4>Larry Parker</h4>
-              <p class="text-muted">Lead Marketer</p>
-              <ul class="list-inline social-buttons">
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fab fa-twitter"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fab fa-facebook-f"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fab fa-linkedin-in"></i>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-sm-4">
-            <div class="team-member">
-              <img class="mx-auto rounded-circle" src="<?php echo base_url().'assets/img/team/3.jpg'?>" alt="">
-              <h4>Diana Pertersen</h4>
-              <p class="text-muted">Lead Developer</p>
-              <ul class="list-inline social-buttons">
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fab fa-twitter"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fab fa-facebook-f"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fab fa-linkedin-in"></i>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
         <div class="row">
-          <div class="col-lg-8 mx-auto text-center">
-            <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+          <div class="col-lg-12">
+            <form id="contactForm" name="sentMessage" novalidate="novalidate">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <input class="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name.">
+                    <p class="help-block text-danger"></p>
+                  </div>
+                  <div class="form-group">
+                    <input class="form-control" id="email" type="email" placeholder="Your Email *" required="required" data-validation-required-message="Please enter your email address.">
+                    <p class="help-block text-danger"></p>
+                  </div>
+                  <div class="form-group">
+                    <input class="form-control" id="phone" type="tel" placeholder="Your Phone *" required="required" data-validation-required-message="Please enter your phone number.">
+                    <p class="help-block text-danger"></p>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <textarea class="form-control" id="message" placeholder="Your Message *" required="required" data-validation-required-message="Please enter a message."></textarea>
+                    <p class="help-block text-danger"></p>
+                  </div>
+                </div>
+                <div class="clearfix"></div>
+                <div class="col-lg-12 text-center">
+                  <div id="success"></div>
+                  <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Send Message</button>
+                </div>
+              </div>
+            </form>
           </div>
         </div>
-        
       </div>
     </section>
+
 
     <!-- Footer -->
     <footer>
@@ -489,21 +441,28 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Project Name</h2>
-                  <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="<?php echo base_url().'assets/img/portfolio/01-full.jpg'?>" alt="">
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                  <ul class="list-inline">
-                    <li>Date: January 2017</li>
-                    <li>Client: Threads</li>
-                    <li>Category: Illustration</li>
-                  </ul>
+                  <h2 class="text-uppercase">Aneka Kaos</h2>
+                  <p class="item-intro text-muted">Kami menyediakan berbagai macam kaos dan dapat terhubung dengan berbagai vendor </p>
+                  <img class="img-fluid d-block mx-auto" src="<?php echo base_url().'assets/img/portfolio/modal/01-full.jpg'?>" alt="">
+                    
+                    <h4 class="text-uppercase text-muted">tersedia berbagai jenis bahan</h4>
+                    <ol class="list-inline" >
+                        <li><h6 class="section-subheading text-muted">1. Combed</h6></li>
+                        <li><h6 class="section-subheading text-muted">2. Soft Carded</h6></li>
+                        <li><h6 class="section-subheading text-muted">3. Hyget</h6></li>
+                        <li><h6 class="section-subheading text-muted">4. Hyget super</h6></li>
+                        <li><h6 class="section-subheading text-muted">5. TC</h6></li>
+                        <li><h6 class="section-subheading text-muted">6. Semi katun</h6></li>
+                        <li><h6 class="section-subheading text-muted">7. Drifit</h6></li>
+                        <li><h6 class="section-subheading text-muted">8. Combed Sari rajut</h6></li>
+                        <br>
+                    </ol>
+                  
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
                     Close Project</button>
-                    <button class="btn btn-primary" data-dismiss="modal" type="button">
-                    <i class="fas fa-times"></i>
-                    Beli</button>
+                    <button class="btn btn-secondary" data-dismiss="modal" type="button">
+                    Cari Vendor</button>
                 </div>
               </div>
             </div>
@@ -526,18 +485,23 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Project Name</h2>
-                  <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="<?php echo base_url().'assets/img/portfolio/02-full.jpg'?>" alt="">
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                  <ul class="list-inline">
-                    <li>Date: January 2017</li>
-                    <li>Client: Explore</li>
-                    <li>Category: Graphic Design</li>
-                  </ul>
-                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <h2 class="text-uppercase">Aneka Kemeja</h2>
+                  <p class="item-intro text-muted">Kami menyediakan berbagai macam kemeja dan dapat terhubung dengan berbagai vendor .</p>
+                  <img class="img-fluid d-block mx-auto" src="<?php echo base_url().'assets/img/portfolio/modal/02-full.jpg'?>" alt="">
+                  <h4 class="text-uppercase text-muted">tersedia berbagai jenis bahan</h4>
+                    <ol class="list-inline" >
+                        <li><h6 class="section-subheading text-muted">1. American Drill</h6></li>
+                        <li><h6 class="section-subheading text-muted">2. Ripstok Army</h6></li>
+                        <li><h6 class="section-subheading text-muted">3. Nagata drill</h6></li>
+                        <li><h6 class="section-subheading text-muted">4. Taipan Tropical</h6></li>
+                        <li><h6 class="section-subheading text-muted">5. Oxford</h6></li>
+                        <br>
+                    </ol>
+                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
                     Close Project</button>
+                    <button class="btn btn-secondary" data-dismiss="modal" type="button">
+                    Cari Vendor</button>
                 </div>
               </div>
             </div>
@@ -560,18 +524,24 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Project Name</h2>
-                  <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="<?php echo base_url().'assets/img/portfolio/03-full.jpg'?>" alt="">
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                  <ul class="list-inline">
-                    <li>Date: January 2017</li>
-                    <li>Client: Finish</li>
-                    <li>Category: Identity</li>
-                  </ul>
+                  <h2 class="text-uppercase">Aneka Kemeja Seragam</h2>
+                  <p class="item-intro text-muted">Kami menyediakan berbagai macam kemeja seragam dan dapat terhubung dengan berbagai vendor.</p>
+                  <img class="img-fluid d-block mx-auto" src="<?php echo base_url().'assets/img/portfolio/modal/03-full.jpg'?>" alt=""> 
+                    <h4 class="text-uppercase text-muted">tersedia berbagai jenis bahan</h4>
+                    <ol class="list-inline" >
+                        <li><h6 class="section-subheading text-muted">1. American Drill</h6></li>
+                        <li><h6 class="section-subheading text-muted">2. Ripstok Army</h6></li>
+                        <li><h6 class="section-subheading text-muted">3. Nagata drill</h6></li>
+                        <li><h6 class="section-subheading text-muted">4. Taipan Tropical</h6></li>
+                        <li><h6 class="section-subheading text-muted">5. Oxford</h6></li>
+                        <br>
+                    </ol>
+                  
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
                     Close Project</button>
+                    <button class="btn btn-secondary" data-dismiss="modal" type="button">
+                    Cari Vendor</button>
                 </div>
               </div>
             </div>
@@ -594,18 +564,25 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Project Name</h2>
-                  <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="<?php echo base_url().'assets/img/portfolio/04-full.jpg'?>" alt="">
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                  <ul class="list-inline">
-                    <li>Date: January 2017</li>
-                    <li>Client: Lines</li>
-                    <li>Category: Branding</li>
-                  </ul>
+                  <h2 class="text-uppercase">Aneka Jersey</h2>
+                  <p class="item-intro text-muted">Kami menyediakan berbagai macam jersey dan dapat terhubung dengan berbagai vendor.</p>
+                  <img class="img-fluid d-block mx-auto" src="<?php echo base_url().'assets/img/portfolio/modal/04-full - Copy.jpg'?>" alt="">
+                   <h4 class="text-uppercase text-muted">tersedia berbagai jenis bahan</h4>
+                    <ol class="list-inline" >
+                        <li><h6 class="section-subheading text-muted">1. Fleece PE</h6></li>
+                        <li><h6 class="section-subheading text-muted">2. Fleece Katun</h6></li>
+                        <li><h6 class="section-subheading text-muted">3. Baby terry</h6></li>
+                        <li><h6 class="section-subheading text-muted">4. Drifit</h6></li>
+                        <li><h6 class="section-subheading text-muted">5. Hyget Super</h6></li>
+                        <li><h6 class="section-subheading text-muted">6. Paragon</h6></li>
+                        <br>
+                    </ol>                 
+
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
                     Close Project</button>
+                    <button class="btn btn-secondary" data-dismiss="modal" type="button">
+                    Cari Vendor</button>
                 </div>
               </div>
             </div>
@@ -628,18 +605,27 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Project Name</h2>
-                  <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="<?php echo base_url().'assets/img/portfolio/05-full.jpg'?>" alt="">
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                  <ul class="list-inline">
-                    <li>Date: January 2017</li>
-                    <li>Client: Southwest</li>
-                    <li>Category: Website Design</li>
-                  </ul>
+                  <h2 class="text-uppercase">Aneka Jaket</h2>
+                  <p class="item-intro text-muted">Kami menyediakan berbagai macam jaket dan dapat terhubung dengan berbagai vendor.</p>
+                  <img class="img-fluid d-block mx-auto" src="<?php echo base_url().'assets/img/portfolio/modal/05-full - Copy.jpg'?>" alt="">
+                   <h4 class="text-uppercase text-muted">tersedia berbagai jenis bahan</h4>
+                    <ol class="list-inline" >
+                        <li><h6 class="section-subheading text-muted">1. Semi formal</h6></li>
+                        <li><h6 class="section-subheading text-muted">2. American drill</h6></li>
+                        <li><h6 class="section-subheading text-muted">3. Nagata drill</h6></li>
+                        <li><h6 class="section-subheading text-muted">4. Mikro Tebal</h6></li>
+                        <li><h6 class="section-subheading text-muted">5. Kanvas</h6></li>
+                        <li><h6 class="section-subheading text-muted">6. Ripstok Army</h6></li>
+                        <li><h6 class="section-subheading text-muted">7. High Twist</h6></li>
+                        <li><h6 class="section-subheading text-muted">8. Sari wool</h6></li>
+                        <br>
+                    </ol>
+                  
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
                     Close Project</button>
+                    <button class="btn btn-secondary" data-dismiss="modal" type="button">
+                    Cari Vendor</button>
                 </div>
               </div>
             </div>
@@ -662,18 +648,24 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Project Name</h2>
-                  <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="<?php echo base_url().'assets/img/portfolio/06-full.jpg'?>" alt="">
-                  <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                  <ul class="list-inline">
-                    <li>Date: January 2017</li>
-                    <li>Client: Window</li>
-                    <li>Category: Photography</li>
-                  </ul>
+                  <h2 class="text-uppercase">Aneka Jaket Parka</h2>
+                  <p class="item-intro text-muted">Kami menyediakan berbagai macam jaket parka dan dapat terhubung dengan berbagai vendor.</p>
+                  <img class="img-fluid d-block mx-auto" src="<?php echo base_url().'assets/img/portfolio/modal/06-full.jpg'?>" alt="">
+                   <h4 class="text-uppercase text-muted">tersedia berbagai jenis bahan</h4>
+                    <ol class="list-inline" >
+                        <li><h6 class="section-subheading text-muted">1. Parasut WP</h6></li>
+                        <li><h6 class="section-subheading text-muted">2. Ripstok WP</h6></li>
+                        <li><h6 class="section-subheading text-muted">3. Mikro</h6></li>
+                        <li><h6 class="section-subheading text-muted">4. Parasut Milky</h6></li>
+                        <li><h6 class="section-subheading text-muted">5. Parasut Tasla Milky</h6></li>
+                        <br>
+                    </ol>
+                
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
                     Close Project</button>
+                    <button class="btn btn-secondary" data-dismiss="modal" type="button">
+                    Cari Vendor</button>
                 </div>
               </div>
             </div>
